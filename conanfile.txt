@@ -1,0 +1,17 @@
+[requires]
+boost_asio/1.69.0@bincrafters/stable
+sfml/2.5.1@bincrafters/stable
+
+[options]
+sfml:shared=True
+sfml:window=True
+sfml:audio=True
+sfml:network=True
+sfml:graphics=True
+
+[generators]
+cmake
+
+
+
+# modify ~/.conan/profiles/default the value of compiler.libcxx from libstdc++ to libstdc++11
