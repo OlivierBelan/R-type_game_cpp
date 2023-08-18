@@ -1,8 +1,0 @@
-/home/takoo/on/CPP_rtype_2019/build/CMakeFiles/rebuild_cache.dir
-/home/takoo/on/CPP_rtype_2019/build/CMakeFiles/edit_cache.dir
-/home/takoo/on/CPP_rtype_2019/build/CMakeFiles/r-type_client.dir
-/home/takoo/on/CPP_rtype_2019/build/CMakeFiles/r-type_server.dir
-/home/takoo/on/CPP_rtype_2019/build/CMakeFiles/r-type.dir
-/home/takoo/on/CPP_rtype_2019/build/CMakeFiles/monster2.dir
-/home/takoo/on/CPP_rtype_2019/build/CMakeFiles/monster1.dir
-/home/takoo/on/CPP_rtype_2019/build/CMakeFiles/monster3.dir
